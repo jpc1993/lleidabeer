@@ -1,0 +1,25 @@
+Telegram:
+  Token: 
+  Users: 
+
+Sensors:
+  Temperature:
+    - 'Wort':
+        gpio: 
+        alarm: 
+    - 'Ambient'
+  FlowMeter:
+    - 'Main'
+    - 'Backup'
+  CO2Meter:
+    - 'Fermentation'
+    - 'Environment'
+
+
+ActiveElements:
+  Heater:
+    - 'Heaterwort':
+        gpio: 
+  Mixer:
+    - 'Mixerone'
+ 
