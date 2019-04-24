@@ -12,4 +12,4 @@ EXPLANATION COMMANDS:
 - /on"Type of active element": Start all the active elements.					Ex: /onheater.
 - /off"Type of active element": Disable all the active elements .				Ex: /offheater.
 - /on"Type of active element" "Name of the active element": Start the active element.		Ex: /onheater Heaterwort.
-- /off"Type of active element" "Name of the active element": Dis
+- /off"Type of active element" "Name of the active element": Disable the active element.	Ex: /offheater Heaterwort.
